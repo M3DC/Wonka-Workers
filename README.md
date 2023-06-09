@@ -1,5 +1,5 @@
 # Wonka-Workers
-#Explicacion y uso de dependencias#
+#Explicacion y uso de dependencias
 
 Picasso (com.squareup.picasso:picasso:2.71828): Esta biblioteca de carga y visualización de imágenes proporciona una forma sencilla de cargar imágenes desde diferentes fuentes (como URL, recursos, etc.) en tus vistas de imagen.
 
